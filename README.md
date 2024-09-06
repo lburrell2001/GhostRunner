@@ -37,7 +37,7 @@
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/yourprojectname.git
-2. **Install Unity:
+2. **Install Unity:**
     Download and install the appropriate Unity version from Unity Hub.
 3. **Open the project:
     Open Unity Hub and select "Open Project."
