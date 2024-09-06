@@ -58,18 +58,20 @@
 
 ## How to Play / Usage
 
-  **Movement:** Use WASD or arrow keys to move.
-  **Jump:** Press Space to jump.
-  **Dash:** Press Shift to dash forward.
-  **Wall Run:** Jump towards a wall and hold Space to run along it.
-  **Objective:** Reach the end of the level as fast as possible while avoiding obstacle
+- **Movement:** Use `WASD` or arrow keys to move.
+- **Jump:** Press `Space` to jump.
+- **Dash:** Press `Shift` to dash forward.
+- **Wall Run:** Jump towards a wall and hold `Space` to run along it.
+- **Objective:** Reach the end of the level as fast as possible while avoiding obstacles.
 
 ## Contributing
 
-  **Fork the repository.**
-  **Create a feature branch (git checkout -b feature/your-feature).**
-  **Commit your changes (git commit -am 'Add your feature').**
-  **Push to the branch (git push origin feature/your-feature).**
-  **Open a Pull Request.**
-  **Please ensure your code follows the coding standards and includes proper documentation.**
+  **Contributions are welcome! Please follow these steps if you'd like to contribute:**
+
+1. Fork the repository.
+2. Create a feature branch (`git checkout -b feature/your-feature`).
+3. Commit your changes (`git commit -am 'Add your feature'`).
+4. Push to the branch (`git push origin feature/your-feature`).
+5. Open a Pull Request.
+
 
