@@ -6,9 +6,8 @@
 2. [Features](#features)
 3. [Requirements](#requirements)
 4. [Setup Instructions](#setup-instructions)
-5. [Folder Structure](#folder-structure)
-6. [How to Play / Usage](#how-to-play--usage)
-7. [Contributing](#contributing)
+5. [How to Play / Usage](#how-to-play--usage)
+6. [Contributing](#contributing)
 
 ---
 ## **GhostRunner**
@@ -45,24 +44,12 @@
 4. **Install necessary packages:**
     Unity will prompt you to install any missing packages. Follow the instructions in Unity’s Package Manager to install required dependencies.
 
-## Folder Setup
-
-/Assets
-    /Scripts               # Contains all C# scripts
-    /Scenes                # Contains Unity scene files
-    /Prefabs               # Contains reusable prefabs (e.g., player, enemies)
-    /Art                   # Contains textures, 3D models, and other art assets
-    /Audio                 # Contains sound effects and background music
-/ProjectSettings           # Unity project settings (graphics, input, etc.)
-/Packages                  # Unity package dependencies
 
 ## How to Play / Usage
 
 - **Movement:** Use `WASD` or arrow keys to move.
 - **Jump:** Press `Space` to jump.
-- **Dash:** Press `Shift` to dash forward.
-- **Wall Run:** Jump towards a wall and hold `Space` to run along it.
-- **Objective:** Reach the end of the level as fast as possible while avoiding obstacles.
+- **Objective:** Collect all the coins and get to the end of the level without falling off the platform.
 
 ## Contributing
 
