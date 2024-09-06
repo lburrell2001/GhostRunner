@@ -47,14 +47,14 @@
 
 ## Folder Setup
 
-/Assets
-    /Scripts               # Contains all C# scripts
-    /Scenes                # Contains Unity scene files
-    /Prefabs               # Contains reusable prefabs (e.g., player, enemies)
-    /Art                   # Contains textures, 3D models, and other art assets
-    /Audio                 # Contains sound effects and background music
-/ProjectSettings           # Unity project settings (graphics, input, etc.)
-/Packages                  # Unity package dependencies
+- /Assets
+-     /Scripts               # Contains all C# scripts
+-     /Scenes                # Contains Unity scene files
+-     /Prefabs               # Contains reusable prefabs (e.g., player, enemies)
+-     /Art                   # Contains textures, 3D models, and other art assets
+-     /Audio                 # Contains sound effects and background music
+- /ProjectSettings           # Unity project settings (graphics, input, etc.)
+- /Packages                  # Unity package dependencies
 
 ## How to Play / Usage
 
